@@ -1,4 +1,4 @@
-inList = open(r"in.txt","r")
+inList = open(r"dirty.txt","r")
 outList = open(r"clean.txt", "w+")
 swears = open(r"swears.txt","r")
 
