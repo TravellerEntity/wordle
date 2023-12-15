@@ -1,6 +1,6 @@
 from termcolor import colored
 import random
-iport requests
+import requests
 import os
 
 CHEATS = False #Set to True to see the correct answer
