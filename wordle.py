@@ -4,7 +4,7 @@ iport requests
 import os
 
 CHEATS = False #Set to True to see the correct answer
-WORD_LIST_URL = "https://raw.githubusercontent.com/TravellerEntity/wordlelist/main/clean.txt"
+WORD_LIST_URL = "https://raw.githubusercontent.com/TravellerEntity/wordle/main/clean.txt"
 ALPHABET = "abcdefghijklmnopqrstuvwxyz"
 ALLOWED_GUESSES = 6
 WIN_STATEMENTS = [ #Taken from the original Wordle
